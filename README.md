@@ -1,12 +1,13 @@
 # IoT Based Smart Home Monitoring
 A design of Smart home security system using existing tools based on the Internet of Things
 ## Requirements
-or [jump to project](https://github.com/SimonDouglas-bit/IoT-Smart-Home-Security/files/9616879/IoT_Based_Smart_Home_Monitoring.pdf)
+
     • Write a project report on a IoT system design of your choice. The IoT system should involve more than 2 devices, IoT platform, and smartphone app (optional).
     • Think about what you would like to design!
     • Development of the system or app is optional/added advantage
 
 ## Report Format:
+or [jump to project](https://github.com/SimonDouglas-bit/IoT-Smart-Home-Security/files/9616879/IoT_Based_Smart_Home_Monitoring.pdf)
     • Individual project
     • Decide the topic.
     • Max 10-page report. Min 6 page
