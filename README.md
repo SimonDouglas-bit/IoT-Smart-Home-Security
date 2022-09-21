@@ -8,6 +8,7 @@ A design of Smart home security system using existing tools based on the Interne
 
 ## Report Format:
 or [jump to project](https://github.com/SimonDouglas-bit/IoT-Smart-Home-Security/files/9616879/IoT_Based_Smart_Home_Monitoring.pdf)
+
     • Individual project
     • Decide the topic.
     • Max 10-page report. Min 6 page
